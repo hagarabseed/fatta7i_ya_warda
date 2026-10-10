@@ -20,5 +20,15 @@ The goal is to understand the difference between StatelessWidget and StatefulWid
 6. Explain why a StatelessWidget cannot update the UI and how a StatefulWidget solves this.
 7. Use setState() to change data and rebuild the screen.
 
-### - Under the supervision of: 
+---
+
+## App Screenshots
+
+| Loss State (Total < 10) | Win State (Total >= 10) |
+| :-------------------------: | :-------------------------: |
+| ![Loss Screen](assets/screenshot_lose.png) | ![Win Screen](assets/screenshot_win.png) |
+
+---
+
+### - Under the supervision of:
 Eng. Atef Mousa, Teaching assistant at the Faculty of AI, Software Development for Mobile Devices Course
